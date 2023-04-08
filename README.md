@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<a href="https://github.com/skydoves"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mahmmedn19&theme=default&show_icons=true&include_all_commits=true&count_private=true"/></a></br>
+<a href="https://github.com/mahmmedn19"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mahmmedn19&theme=default&show_icons=true&include_all_commits=true&count_private=true"/></a></br>
 
 </p>
 
