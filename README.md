@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D2335?style=for-the-badge&logo=linkedin&logoColor=3EDA81)](https://linkedin.com/in/mahmmedn19)
 [![Gmail](https://img.shields.io/badge/Gmail-0D2335?style=for-the-badge&logo=gmail&logoColor=3EDA81)](mailto:mahmmedn19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D2335?style=for-the-badge&logo=github&logoColor=3EDA81)](https://github.com/mahmmedn19)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-22B361?style=for-the-badge&logo=netlify&logoColor=white)](https://monaser.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-22B361?style=for-the-badge&logo=netlify&logoColor=white)](https://mahmmedn19.github.io/android-portfolio-playground/)
 [![Download CV](https://img.shields.io/badge/Download_CV-0D2335?style=for-the-badge&logo=googledrive&logoColor=3EDA81)](https://drive.google.com/file/d/1U3u6b1AWS7YIFUJ6haF-ksiUkogyEALF/view?usp=sharing)
 
 <br/>
